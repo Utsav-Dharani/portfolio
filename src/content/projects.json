@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "pdf-to-podcast",
+    "category": "NLP Application",
+    "title": "AI Podcast Assistant ",
+    "summary": "End-to-end pipeline that converts research PDFs into structured summaries and audio output, wrapped behind a Dockerized FastAPI service.",
+    "tags": ["Python", "LangChain", "Summarization", "FastAPI", "Docker", "PDF parsing", "Prompt Design"],
+    "image": "",
+    "highlights": [
+      "Implemented PDF ingestion: parsing, cleanup, and section-aware chunking to preserve context within prompt limits.",
+      "Designed prompt templates for consistent outputs (summary, key takeaways, section breakdown) and iterated quality via spot-checks.",
+      "Added reliability (logging, basic retries/error handling) and generated organized audio outputs with metadata/file tagging."
+    ],
+    "problem": "Long research papers are time-consuming to read and hard to review on the go.",
+    "approach": "Parse → clean/chunk → summarize → generate audio; expose the workflow via REST endpoints for reuse and UI integration.",
+    "contributions": "Built ingestion, chunking, summarization orchestration, audio generation with edge-tts, and Dockerized FastAPI endpoints (upload, summarize, audio, fetch outputs).",
+    "results": "Produced replayable audio summaries that speed up literature review and revision.",
+    "stack": "Python, LangChain, FastAPI, Docker, edge-tts, PDF parsing, prompt templates, logging",
+    "links": { "github": "https://github.com/Utsav-Dharani", "demo": "" }
+  },
+  {
+    "slug": "satellite-image-segmentation",
+    "category": "Computer Vision",
+    "title": "Satellite Image Segmentation",
+    "summary": "Desktop segmentation app that runs U-Net inference on satellite images and visualizes predicted masks through a simple GUI.",
+    "tags": ["TensorFlow/Keras", "U-Net", "Image Preprocessing", "Tkinter", "Python"],
+    "image": "",
+    "highlights": [
+      "Trained a U-Net model with augmentation (flips/rotations + intensity changes) to improve robustness across terrain and lighting variation.",
+      "Built preprocessing pipeline (resize, normalization, format conversion) and streamlined inference for responsive local predictions.",
+      "Created a Tkinter GUI with input validation and clear errors; documented setup so the tool is easy to install and demo."
+    ],
+    "problem": "Non-technical users needed an easy way to run segmentation on satellite images and visualize results without ML tooling.",
+    "approach": "Train a U-Net in TensorFlow/Keras, build a preprocessing + inference pipeline, and wrap it in a lightweight desktop UI.",
+    "contributions": "Implemented model training/inference, preprocessing, GUI workflow, validation/error handling, and installation documentation.",
+    "results": "Delivered a reproducible desktop tool for quick segmentation demos and day-to-day experimentation on typical laptops.",
+    "stack": "Python, TensorFlow/Keras, U-Net, augmentation, image preprocessing, Tkinter",
+    "links": { "github": "", "demo": "" }
+  }
+]

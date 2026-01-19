@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "lung-segmentation-unet-cxr",
+    "title": "Automatic Image Segmentation for Lung using Deep Learning and Convolutional Neural Network",
+    "authors": "Utsav Dharani, Dhara Bambhroliya, Aayushi Lad, Vivin Meveda, Riya Gohil",
+    "venue": "Grenze International Journal of Engineering and Technology",
+    "year": "2024",
+    "pdf": "/papers/Automatic Image Segmentation for Lung using DeepLearning and Convolutional Neural Network.pdf",
+    "summary": "U-Net based lung segmentation on chest X-rays to support faster, more reliable image analysis and verification workflows.",
+    "bullets": [
+      "Prepared ~800 chest X-ray images (704 labeled); resized to 256×256 and converted to grayscale for efficiency.",
+      "Implemented U-Net for semantic segmentation and evaluated quality using Dice coefficient and Jaccard index.",
+      "Reported training/validation behavior across 100 epochs and discussed failure cases like occlusion and deformation."
+    ]
+  }
+]

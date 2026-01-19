@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "csusb-gra-ai-engineer",
+    "title": "Graduate Research Assistant — Software/AI Engineer",
+    "org": "California State University, San Bernardino (Office of Institutional Research)",
+    "location": "San Bernardino, CA",
+    "dates": "Jul 2025 – Present",
+    "keywords": ["Python", "FastAPI", "SQL", "LLMs", "RAG", "Sentiment/Themantic Analysis", "FAISS", "Docker", "CI/CD", "Git"],
+    "bullets": [
+      "Build internal tools and REST APIs for survey reporting/analysis; translate stakeholder requirements into maintainable services and data pipelines aligned with reporting workflows.",
+      "Partner with directors, analysts, and IT to scope features, validate data sources, iterate on real usage, and document business rules + edge cases for long-term maintainability.",
+      "AI Integrated Survey Assistant (LLM + RAG): built a FastAPI backend that accepts natural-language queries, retrieves relevant survey content, and returns grounded results with survey IDs/links for verification.",
+      "Implemented ingestion + indexing workflows: clean/normalize survey documents, chunk content, generate embeddings, and store vectors in FAISS for fast semantic retrieval.",
+      "Improved relevance and usability with ranking/filter rules, lightweight caching for repeat queries, and iterative prompt/result formatting based on staff feedback; added basic usage analytics to guide tuning.",
+      "AIMS Scheduling: co-designed a normalized scheduling data model (tables/keys/constraints) and defined API views for browsing schedules by instructor/course/room and surfacing conflicts + workload issues."
+    ]
+  },
+  {
+    "slug": "techicom-swe-trainee",
+    "title": "Software Engineer Trainee",
+    "org": "Techicom — Software Development AI Solutions",
+    "location": "Vadodara, India",
+    "dates": "Jul 2024 – Nov 2024",
+    "keywords": ["Python", "Java", "Microservices", "REST APIs", "Docker", "Git", "CI/CD"],
+    "bullets": [
+      "Delivered backend features and bug fixes in a Python/Java microservices codebase via Jira tickets, code reviews, and branch-based workflows.",
+      "Implemented REST endpoint enhancements and background workers with request validation and consistent error handling to reduce client-facing failures.",
+      "Improved observability with structured logging and request-level diagnostics; added basic unit tests to catch regressions during QA and deployments.",
+      "Wrapped model inference behind Python services and standardized JSON inputs/outputs with metrics/logs for monitoring and troubleshooting.",
+      "Wrote clear README/ticket notes so changes were easy to understand, test, and maintain."
+    ]
+  },
+  {
+    "slug": "maxgen-data-scientist",
+    "title": "Data Scientist",
+    "org": "Maxgen Technologies Pvt. Ltd.",
+    "location": "Ahmedabad, India",
+    "dates": "Jan 2024 – Jun 2024",
+    "keywords": ["Python", "SQL", "ETL", "Data cleaning", "Feature Engineering", "Scikit-learn", "TensorFlow", "Model Evaluation"],
+    "bullets": [
+      "Prepared datasets from SQL/CSV sources by cleaning, joining, and standardizing data; handled missing values/outliers and engineered features for modeling tasks.",
+      "Trained and compared baseline ML models (classification/regression) using metric-driven evaluation and error analysis; documented trade-offs and recommended next steps.",
+      "Built repeatable preprocessing and training workflows in Python (scripts/notebooks) to keep experiments reproducible and iteration fast across datasets and model variants.",
+      "Communicated results with concise summaries (metrics + practical implications) to support stakeholder decisions and engineering integration."
+    ]
+  }
+]

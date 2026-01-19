@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "google-cloud-computing-foundations",
+    "issuer": "Google",
+    "title": "Google Cloud Computing Foundations Certificate",
+    "date": "Oct 2025",
+    "description": "Covers cloud fundamentals and core Google Cloud concepts: services overview, IAM basics, networking/storage, and platform operations.",
+    "credentialId": "763c66cf-6c44-4078-a654-87c13c0a88c6",
+    "credentialUrl": "https://www.credly.com/badges/763c66cf-6c44-4078-a654-87c13c0a88c6/linked_in_profile",
+    "pdf": "",
+    "image": "/certificates/Google Cloud Computing Foundations Certificate.png"
+  },
+  {
+    "slug": "oracle-oci-2025-generative-ai-professional",
+    "issuer": "Oracle",
+    "title": "Oracle Cloud Infrastructure 2025 Generative AI Professional",
+    "date": "Oct 2025",
+    "description": "Focused on OCI Generative AI capabilities: LLM basics, prompt patterns, model usage in OCI, and practical deployment/guardrails concepts.",
+    "credentialId": "251062105",
+    "credentialUrl": "https://mylearn.oracle.com/ou/learning-path/become-an-oci-generative-ai-professional-2025/147863",
+    "pdf": "",
+    "image": "/certificates/Oracle Cloud Infrastructure 2025 Generative AI Professional.png"
+  },
+  {
+    "slug": "prepare-data-for-ml-apis-skill-badge",
+    "issuer": "Google",
+    "title": "Prepare Data for ML APIs on Google Cloud (Skill Badge)",
+    "date": "Oct 2025",
+    "description": "Hands-on data prep workflows for ML: cleaning, transforming, and validating datasets on Google Cloud to support ML API consumption.",
+    "credentialId": "44fe6911-22f0-425a-b9c2-4ee4c3110a58",
+    "credentialUrl": "https://www.credly.com/badges/44fe6911-22f0-425a-b9c2-4ee4c3110a58/linked_in_profile",
+    "pdf": "",
+    "image": "/certificates/Prepare Data for ML APIs on Google Cloud (Skill Badge).png"
+  },
+  {
+    "slug": "python-for-data-science-nptel",
+    "issuer": "NPTEL",
+    "title": "Python for Data Science",
+    "date": "Oct 2023",
+    "description": "Python for data analysis: core programming, data wrangling, and working with common data-science libraries for analysis workflows.",
+    "credentialId": "NPTEL23CS99S34460358",
+    "credentialUrl": "https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs99/Course/NPTEL23CS99S3446035810132248.pdf",
+    "pdf": "",
+    "image": "/certificates/Python for Data Science.png"
+  },
+  {
+    "slug": "enterprise-design-thinking-practitioner",
+    "issuer": "IBM",
+    "title": "Enterprise Design Thinking Practitioner",
+    "date": "Jun 2023",
+    "description": "IBM Enterprise Design Thinking fundamentals: user-centered problem framing, ideation, prototyping, and outcome-driven delivery practices.",
+    "credentialId": "",
+    "credentialUrl": "https://www.credly.com/badges/59c376cc-cef6-4896-8c7b-be418ddc005e/linked_in_profile",
+    "pdf": "",
+    "image": "/certificates/Enterprise Design Thinking Practitioner.png"
+  },
+  {
+    "slug": "machine-learning-specialization-coursera-stanford",
+    "issuer": "Coursera / Stanford Online",
+    "title": "Machine Learning Specialization",
+    "date": "Sep 2022",
+    "description": "Core ML foundations: supervised learning, model evaluation, regularization, and practical workflows for building and improving models.",
+    "credentialId": "6YRVZ5E2CY8R",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/specialization/certificate/6YRVZ5E2CY8R",
+    "pdf": "",
+    "image": "/certificates/Machine Learning Specialization.png"
+  }
+]

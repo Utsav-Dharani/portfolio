@@ -1,0 +1,81 @@
+{
+  "firstName": "Utsav",
+  "lastName": "Dharani",
+  "headline": "AI/ML Engineer / Software Developer",
+  "heroSubtitle": "I build backend services, data pipelines, and ML/LLM features (RAG + embeddings) that ship into real workflows\u2014clean APIs, reliable retrieval, and maintainable systems.",
+  "location": "Los Angeles, CA",
+  "email": "utsavdharani96@gmail.com",
+  "phone": "+1 (818) 264-9606",
+  "profileImage": "/profile.svg",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "href": "https://linkedin.com/in/utsav-dharani"
+    },
+    {
+      "label": "GitHub",
+      "icon": "github",
+      "href": "https://github.com/Utsav-Dharani"
+    },
+    {
+      "label": "Email",
+      "icon": "email",
+      "href": "mailto:utsavdharani96@gmail.com"
+    }
+  ],
+  "aboutSubtitle": "A quick overview of what I build and how I work.",
+  "about": [
+    "Software + AI/ML engineer and Graduate Student Assistant at CSU San Bernardino. I build backend services, internal tools, and data-driven APIs with Python (FastAPI/Flask), SQL, and Docker/CI/CD.",
+    "I ship LLM-enabled features—RAG pipelines, embeddings, and vector search (FAISS)—and I’m comfortable working across research + engineering workflows. I’ve also worked with deep learning for segmentation and production-grade data pipelines.",
+    "I like owning work end-to-end: requirements → schema/API design → implementation/testing → docs + edge cases, so systems stay reliable and maintainable. Currently pursuing an M.S. in Computer Science, focused on semantic search, text-to-speech, and applied AI."
+  ],
+  "skills": [
+  {
+    "title": "Languages",
+    "items": ["Python", "Java", "JavaScript", "C++", "SQL"]
+  },
+  {
+    "title": "Frontend",
+    "items": ["React.js", "Next.js", "Tailwind CSS"]
+  },
+  {
+    "title": "Backend, APIs & DevOps",
+    "items": [
+      "FastAPI",
+      "Flask",
+      "REST APIs",
+      "Docker",
+      "Git/GitHub"
+    ]
+  },
+  {
+    "title": "Database",
+    "items": [
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
+  {
+    "title": "ML / DL",
+    "items": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Model Training & Evaluation",
+      "Feature Engineering"
+    ]
+  },
+  {
+    "title": "LLM / NLP",
+    "items": [
+      
+      "LangChain",
+      "LlamaIndex",
+      "sentiment/thematic analysis",
+      "RAG"
+    ]
+  }
+]
+
+}
